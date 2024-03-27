@@ -7,10 +7,14 @@ has_children: yes
 # Data Sources
 how to search for data, what to look for, thinking about what data you'll need etc. 
 
+[what is geospatial data?](https://ubc-library-rc.github.io/gis-intro-qgis/content/geospatial-data.html)
+
 
 [https://earthworks.stanford.edu/](https://earthworks.stanford.edu/)
 [The Humanitarian Data Exchange](https://data.humdata.org/dataset)
 [BC Data](https://catalogue.data.gov.bc.ca/)
+[cov open data portal](https://opendata.vancouver.ca/pages/home/)
+[metro vancouver open data](https://open-data-portal-metrovancouver.hub.arcgis.com/)
 
 ## Census Data Canada
 - [Statistics Canada]()
