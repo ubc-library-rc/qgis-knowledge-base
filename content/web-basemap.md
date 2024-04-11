@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Adding a Basemap
-nav_order: 20
+title: Add a basemap
+nav_order: 7
 ---
 # Adding A Basemap      
 
