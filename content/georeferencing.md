@@ -13,3 +13,8 @@ Note that georeferencing is not geocoding. Geocoding is when you have a tabular 
 
 <br>
 ![georeferencing](./images/georeferenced-map_20231112.jpg)
+
+
+#### RESOURCES
+- [Georeferencing Historical Maps](https://ubc-library-rc.github.io/gis-georeferencing/)
+- [georeferencing in QGIS](https://storymaps.arcgis.com/stories/e8d1d13ca8894643970f315d16010ee9)
