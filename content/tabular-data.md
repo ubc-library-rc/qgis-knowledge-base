@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Tabular Data
-nav_order: 7
-parent: Displaying Data
+nav_order: 1
+parent: Working with data
 ---
 
-
 # Displaying Tabular data 
-This workflow describes how to georeference tabular data in QGIS given your dataset has latitude and longitude information in decimal degrees for each point (aka row, record, or instance). For demonstration purposes, this tutorial uses a a dataset of parks in downtown vancouver, downloaded from the city's [open data portal](https://opendata.vancouver.ca/explore/dataset/parks).
+
+Do you have a spreadsheet with coordinate pairs? This workflow describes how to georeference tabular data in QGIS given your dataset has latitude and longitude information in decimal degrees for each point (aka row, record, or instance). For demonstration purposes, this tutorial uses a a dataset of parks in downtown vancouver, downloaded from the city's [open data portal](https://opendata.vancouver.ca/explore/dataset/parks).
 
 ### Before you begin...
 First, make sure latitude and longitude are in separate columns. Second, try to find out the geographic coordinate system (GCS) of your dataset. Check the page you downloaded your data from or contact the dataset owner. Knowing this will ensure your data is projected accurately when added. Finally, if you're not working with any other shapefiles, you can open a blank QGIS project now and [add a basemap from the web](https://github.com/ubc-lib-geo/qgis-add-basemap). 
