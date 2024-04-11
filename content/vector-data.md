@@ -2,7 +2,7 @@
 layout: default
 title: Vector Layers
 nav_order: 2
-parent: Displaying Data
+parent: Working with data
 ---
 # Vector Layers  
 
@@ -19,6 +19,7 @@ parent: Displaying Data
 
 ## changing symbology 
 
+## tools -> reprojecting
 
 ## geoprocessing
 - clip
