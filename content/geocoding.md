@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Geocoding
-nav_order: 9
-parent: Displaying Data
+nav_order: 5
+parent: Working with data
 ---
 
 
