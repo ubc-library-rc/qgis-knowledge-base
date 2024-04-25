@@ -2,7 +2,7 @@
 layout: default
 title: Tabular Data
 nav_order: 1
-parent: Working with data
+parent: Displaying Data
 ---
 
 # Displaying Tabular data 
@@ -20,3 +20,5 @@ In the dialogue box that opens, navigate to your saved csv file and select it Un
 
 QGIS will automatically project your layer in the coordinate reference system of your project. (Depending on your application settings your project will be assigned either a default CRS or take on the CRS of the first layer you add). By doing this, QGIS is not changing the GCS you just assigned, but rather adjusting *where* the points are rendered so that they remain accurate in location given any projection. 
 ![displayed-data](./images/xy-displayed_20220204.jpg)
+
+Now that your tabular data is displayed as a vector layer, you can save and export it as a geospatial file. 
