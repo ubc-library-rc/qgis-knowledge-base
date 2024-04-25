@@ -2,6 +2,7 @@
 layout: default
 title: QGIS
 nav_order: 2
+has_children: true
 ---
 # What is QGIS?
 *Introduction to what qgis is and resources to learn more about qgis*
