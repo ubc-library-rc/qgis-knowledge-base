@@ -5,6 +5,8 @@ nav_order: 2
 has_children: true
 ---
 # What is QGIS?
+
+
 *Introduction to what qgis is and resources to learn more about qgis*
     
 
@@ -27,6 +29,7 @@ QGIS can be downloaded from [qgis.org's Downloads page](https://qgis.org/en/site
 ![download-QGIS-LTR](./images/QGIS-install-long-term-version-20240411.png)
 
 ---
+
 #### Resources to learn QGIS 
 - [Map Production with QGIS](https://ubc-library-rc.github.io/gis-intro-qgis/)
 - [QGIS User Guide](https://docs.qgis.org/3.34/en/docs/user_manual/index.html) 

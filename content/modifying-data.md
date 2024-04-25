@@ -14,6 +14,7 @@ What can this include? This group of pages documents some  workflows for common 
 - Field calculations 
 - Selections: selecting and modifying multiple rows at once
 - Creating a new layer from selection
+- extract by location 
 
 
 #### Resources 

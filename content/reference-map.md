@@ -1,15 +1,15 @@
 ---
 layout: default
 title: Make a reference map
-nav_order: 8
+nav_order: 10
 ---
 # Make a Reference Map
 
-A simple reference map can bring context to your academic article, poster, or presentation. 
+A simple reference map can add useful context to your academic article, poster, or presentation. 
 
 Basic familiarity with QGIS, - show you how to do both. If you dont have familiarity, 
 
-> shapefile, and then sattelite imagery. 
+> shapefiles downloaded (points uploaded over - see other page), and then sattelite imagery > creating and editing shapefiles
 Do you want to ... need to ...
 this workflow details how to create a simple reference map of a geographic area. Add additional data as you need. 
 
