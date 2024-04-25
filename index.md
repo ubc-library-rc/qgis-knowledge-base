@@ -14,6 +14,11 @@ This repository is a growing collection of short demos for common tools and work
 Each tool offers a demo that can be done with the practice project and dataset downloaded here. However, you are welcome to work with your own datasets as you reference the documentation. The data page of this knowledge base provides links to common data sources if you're just starting out. 
 Tools and workflows are grouped together but related tools and workflows outside the grouping are linked at the top and bottom of each page.
     
+## Examples
+Each page group has an example exercise to guide you in practicing common workflows documented therein. download the knowledge base data and qgis project here
+
+[Download Data](empty.zip){: .btn .btn-blue }
+
       
 
 
