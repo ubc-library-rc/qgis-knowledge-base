@@ -2,11 +2,18 @@
 layout: default
 title: Vector Layers
 nav_order: 2
-parent: Working with data
+parent: Displaying Data
 ---
 # Vector Layers  
 
 ## Adding Vector Layers 
+### Drag and Drop
+### Browser Window
+There are three ways to navigate to and add a vector layer form the Browser Window. 
+-  Panel 
+- Icon 
+- Favorites
+### Vector Menu
 
 ## Attribute Table
 - open

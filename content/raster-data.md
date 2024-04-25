@@ -2,7 +2,7 @@
 layout: default
 title: Raster Layers
 nav_order: 3
-parent: Working with data
+parent: Displaying Data
 ---
 # Raster Data
 
