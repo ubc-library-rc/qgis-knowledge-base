@@ -10,12 +10,7 @@ nav_order: 1
 
 # QGIS Knowledge Base
 
-This repository is a growing collection of short demos for common tools and workflows in QGIS.
-Each tool offers a demo that can be done with the practice project and dataset downloaded here. However, you are welcome to work with your own datasets as you reference the documentation. The data page of this knowledge base provides links to common data sources if you're just starting out. 
-Tools and workflows are grouped together but related tools and workflows outside the grouping are linked at the top and bottom of each page.
-    
-## Examples
-Each page group has an example exercise to guide you in practicing common workflows documented therein. download the knowledge base data and qgis project here
+This repository is a growing collection of short demos for common tools and workflows in QGIS. Tools and workflows are grouped together under parent pages 'Finding Data', 'Displaying Data', 'Modifying Vector Data'.... At the bottom of each page you will find a list of resources to learn more. This knowledge base is not a comprehensive course on QGIS but rather a starting place to come with questions. Each page group contains an exercise page that will guide you through some of the documented tools. Download the Knowledge Base Data and QGIS Project here to follow along. 
 
 [Download Data](empty.zip){: .btn .btn-blue }
 
