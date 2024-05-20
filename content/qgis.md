@@ -2,13 +2,11 @@
 layout: default
 title: QGIS
 nav_order: 2
-has_children: true
+# has_children: true
 ---
 # What is QGIS?
 
-
-*Introduction to what qgis is and resources to learn more about qgis*
-    
+A Geographic Information System (GIS) works with data that is tied to a location on Earth. This type of data is often referred to as GIS data, or geospatial data, and is spatially referenced to Earth using location information – most commonly geographic coordinates. A GIS uses this location information to project a geospatial file into a virtual geographic space where it can then be visualized and analyzed.
 
 QGIS is a popular desktop GIS software, and considered a **f**ree and **o**pen **s**ource **s**oftware **(FOSS)** with a very active development community. 
 
@@ -33,8 +31,8 @@ QGIS can be downloaded from [qgis.org's Downloads page](https://qgis.org/en/site
 #### Resources to learn QGIS 
 - [Map Production with QGIS](https://ubc-library-rc.github.io/gis-intro-qgis/)
 - [QGIS User Guide](https://docs.qgis.org/3.34/en/docs/user_manual/index.html) 
-- [QGIS Trainig Material](https://docs.qgis.org/3.34/en/docs/training_manual/index.html)
+- [QGIS Training Material](https://docs.qgis.org/3.34/en/docs/training_manual/index.html)
 - [Spatial Thoughts Academy QGIS course](https://courses.spatialthoughts.com/introduction-to-qgis.html)
-- Googling your questions. It's likely you're not the first one to run into an issue. Use specific jargon as search terms. Browse youtube videos. Scroll through stack exchange conversations. 
+- Google your questions. It's likely you're not the first one to run into an issue. Use specific jargon as search terms; for instance, if you want to know what the resolution of a raster means, search 'resolution meaning raster'. Browse youtube videos. Scroll through stack exchange conversations. 
 
 
