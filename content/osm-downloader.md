@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Download OSM data
-nav_order: 2
-parent: Finding Data
+title: OSM Downloader
+nav_order: 7
+parent: Loading & Displaying Data
 ---
 # Downloading OSM Street Network Data
 Need data on street networks? There's a QGIS Plugin that allows you to download and save OSM data to your local device. 
@@ -16,4 +16,4 @@ From the Plugins menu at the top of your screen, navigate to “Manage and Insta
 
 ---
 #### Resources 
-[QGIS Plugins](https://plugins.qgis.org/)
+

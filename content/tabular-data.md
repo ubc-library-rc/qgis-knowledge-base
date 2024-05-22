@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Tabular Data
-nav_order: 1
-parent: Displaying Data
+nav_order: 3
+parent: Loading & Displaying Data
 ---
 
 # Displaying Tabular data 

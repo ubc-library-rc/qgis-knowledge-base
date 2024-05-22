@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Geocoding
-nav_order: 5
-parent: Displaying Data
+nav_order: 4
+parent: Loading & Displaying Data
 ---
 # Geocoding
 - mmqgis plugin 

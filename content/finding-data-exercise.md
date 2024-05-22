@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Exercise
-nav_order: 2
+nav_order: 6
 parent: Finding Data
 ---
 

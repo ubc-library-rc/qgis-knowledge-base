@@ -1,14 +1,18 @@
 ---
 layout: default
 title: Add a Basemap
-nav_order: 2
-parent: QGIS
+nav_order: 6
+parent: Loading & Displaying Data
 ---
 
 # Adding A Basemap      
 
-## Add basemap from web plugin
-One way to add a basemap is through a plugin. This will connect access to a host of different basemaps you can search directly from the QGIS interface. [QGIS plugins](https://plugins.qgis.org/) are user developed tools that extend QGIS functionality beyond the basics. To access basemaps, we'll first install the QuickMapServices plugin. Click on the **Plugin** menu at the top of your screen and select **Manage and Install Plugins...**   
+One way to add a basemap is through a plugin. [QGIS plugins](https://plugins.qgis.org/) are user developed tools that extend QGIS functionality beyond the basics. 
+
+Two popular plugins for accessing basemaps are **QuickMapServices** and OpenLayers*. Installing either of these plugins will connect you to a host of different basemaps which you can browse and add to your project all within your QGIS interface. 
+
+
+To access basemaps, we'll first install the QuickMapServices plugin. Click on the **Plugin** menu at the top of your screen and select **Manage and Install Plugins...**   
 
 <img src="./images/install-plugin_20240404.jpg" style="width:100%"> 
    

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Vector Layers
-nav_order: 2
-parent: Displaying Data
+nav_order: 1
+parent: Loading & Displaying Data
 ---
 # Vector Layers  
 
