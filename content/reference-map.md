@@ -15,3 +15,12 @@ A simple reference map can add useful context to your academic article, poster, 
 5. Make layout - add scalebar, title, label, north arrow, legend
 6. export 
 
+
+
+#### Resources for Making Maps with QGIS
+- [Making your first map video](https://www.youtube.com/watch?v=idQvOMWNMGI)
+- [Map Production with QGIS tutorial](https://ubc-library-rc.github.io/gis-intro-qgis/)
+- [Make a Static Map with QGIS](https://www.youtube.com/watch?v=sD93_VGVXzs)
+- [Creating a Map Layout video tutorial](https://www.youtube.com/watch?v=vfC_Ovr-Uhw&list=PLf4nI7H4_hPYgT4vrK4293tvIx7b88-bF&index=5)
+- [Creating a Shapefile & Preparing a Study Area Map video tutorial](https://www.youtube.com/watch?v=Y2WoZmNs-kI)
+- [Creating an Inset Map video tutorial](https://www.youtube.com/watch?v=cqM5feQyT2A)
