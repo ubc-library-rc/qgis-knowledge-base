@@ -3,6 +3,7 @@ layout: default
 title: Add a Basemap
 nav_order: 6
 parent: Loading & Displaying Data
+# parent: Load & Display Data
 ---
 
 # Adding A Basemap      
