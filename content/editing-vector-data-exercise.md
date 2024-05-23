@@ -2,9 +2,9 @@
 layout: default
 title: Exercise
 nav_order: 2
-parent: Modifying Vector Data
+parent: Editing Vector Data
 ---
-# Modifying Data Exercise
+# Practice Editing Vector Data 
 
 
 

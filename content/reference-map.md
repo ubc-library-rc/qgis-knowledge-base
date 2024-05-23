@@ -1,21 +1,16 @@
 ---
 layout: default
 title: Make a reference map
-nav_order: 10
+nav_order: 11
 ---
 # Make a Reference Map
+A simple reference map can add useful context to your academic article, poster, or presentation. In order to make a reference map with a GIS — whether it be QGIS, ArcGIS, or another GIS — it's recommended you have a basic familiarity with the application. If you've never used QGIS, review the Research Commons' workshop on [map production with QGIS](https://ubc-library-rc.github.io/gis-intro-qgis/)before getting started.
 
-A simple reference map can add useful context to your academic article, poster, or presentation. 
-
-Basic familiarity with QGIS, - show you how to do both. If you dont have familiarity, 
-
-> shapefiles downloaded (points uploaded over - see other page), and then sattelite imagery > creating and editing shapefiles
-Do you want to ... need to ...
-this workflow details how to create a simple reference map of a geographic area. Add additional data as you need. 
-
-1. download data - NE shapefiles - areas
-2. can create city or download city etc. or rivers 
-3. clip/process/
+1. What are you mapping? If point, area, etc - need to assemble data layers. 
+ - create a point, create or extract an area, shading etc. 
+2. Basemap - weather sattelite imagery or vector data 
+ - natural earth shapefiles (can always select and export single country)
+3. Clip/process
 4. symbology
 5. Make layout - add scalebar, title, label, north arrow, legend
 6. export 

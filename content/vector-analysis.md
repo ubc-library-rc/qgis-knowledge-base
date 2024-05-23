@@ -1,15 +1,13 @@
 ---
 layout: default
 title: Vector Analysis
-nav_order: 7
+nav_order: 9
 has_children: yes
 ---
 # Vector Analysis
 
-all the different tools, how they are grouped and used, what questions they help answer etc. 
-common ones
+Groups of Vector Analysis tools - common tools and how they are used
 
-create workflow / 1 demo dataset /that can touch on handful of each group - begin with geopreocessing etc  
 
 ### Geoprocessing
 - clip
@@ -28,7 +26,7 @@ create workflow / 1 demo dataset /that can touch on handful of each group - begi
 
 
 
-
-
 #### Vector Analysis Resources
+- [Vector Overlay Tools](https://docs.qgis.org/3.34/en/docs/user_manual/processing_algs/qgis/vectoroverlay.html#clip)
 - [QGIS Beginner Guide](https://docs.qgis.org/3.34/en/docs/training_manual/vector_analysis/basic_analysis.html)
+- [Working with Vector Data in QGIS](https://docs.qgis.org/3.34/en/docs/user_manual/working_with_vector/index.html)
