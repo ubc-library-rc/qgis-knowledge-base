@@ -32,46 +32,59 @@ Whether you're performing spatial analysis or making maps for yourself or a clie
 ```
 ---
 
-## Data Sources
+# Some Data Sources
+
+Explore UBC Library's compendium of data sources for Canada and the world [HERE](https://guides.library.ubc.ca/gis/datasources)
+
+    
 
 
 
-[https://earthworks.stanford.edu/](https://earthworks.stanford.edu/)
-[The Humanitarian Data Exchange](https://data.humdata.org/dataset)
-[BC Data](https://catalogue.data.gov.bc.ca/)
-[cov open data portal](https://opendata.vancouver.ca/pages/home/)
-[metro vancouver open data](https://open-data-portal-metrovancouver.hub.arcgis.com/)
 
-## Census Data Canada
-- [Statistics Canada]()
+## Municipal and Provincial Data 
+- [BC Data](https://catalogue.data.gov.bc.ca/)
 - [Administrative and Statistical Boundaries 2021 (e.g., provinces, census divisions, dissemination areas)](https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/index2021-eng.cfm?year=21)
+- [City of Vancouver open data portal](https://opendata.vancouver.ca/pages/home/)
+- [Metro Vancouver open data portal](https://open-data-portal-metrovancouver.hub.arcgis.com/)
+- [Burnaby open data portal](https://data.burnaby.ca/)
+- [Victoria](https://opendata.victoria.ca/) 
+- [Guelph](http://data.open.guelph.ca/)
+- [Toronto](https://open.toronto.ca/)
+- [Kelowna](https://opendata.kelowna.ca/)
+- [Kamloops](https://mydata-kamloops.opendata.arcgis.com/)
+- [Calgary](https://data.calgary.ca/) 
 
-## Census Data Global
+## Global Census Data 
 - [World urbanization](https://population.un.org/wup/DataQuery/)
 - [World demographics](https://population.un.org/dataportal/home?df=d7cac223-d504-404f-807a-03d475ad6c63)
 
-## Global/Local Shapefiles
-- [Natural Earth](https://www.naturalearthdata.com/downloads/) what it is....
+## Global Boundary Files
+- [Natural Earth data](https://www.naturalearthdata.com/downloads/) 
 - [USA TIGER line shapefiles](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html)
+- [Earthworks Stanford](https://earthworks.stanford.edu/)
+- [The Humanitarian Data Exchange](https://data.humdata.org/dataset)
 
 
-## Street Network
-- [osm street network]() --> how to download from within QGIS
+## Street Network Examples
+- [OSM Street Network](https://www.openstreetmap.org/#map=11/49.2465/-123.0908&layers=H) (see [downloading OSM data in QGIS](./osm-downloader.md))
 - [canada road network file](https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/rnf-frr/index2021-eng.cfm?year=21)
-- [usa primary roads](https://catalog.data.gov/dataset/tiger-line-shapefile-2019-nation-u-s-primary-roads-national-shapefile)
-- [usa transportation atlas]
-- [india 2016 roads](https://geodata.mit.edu/catalog/stanford-qf525mn4696)
-- [EU](https://data.europa.eu/data/datasets/major-road-network?locale=en)
+- [USA Primary Roads](https://catalog.data.gov/dataset/tiger-line-shapefile-2019-nation-u-s-primary-roads-national-shapefile)
+- [India Roads (2016)](https://geodata.mit.edu/catalog/stanford-qf525mn4696)
+- [EU Major Road Network](https://data.europa.eu/data/datasets/major-road-network?locale=en)
 
 ## Climate, Landcover, and Satellite Imagery
-- [world climate data](https://www.worldclim.org/)
-- [world land cover](https://data.apps.fao.org/catalog/iso/8cf69f76-1be0-4339-a0b0-18a93c7f4760)
-- [another world land cover](https://viewer.esa-worldcover.org/worldcover/)
-- [places to download tile by tile](https://gisgeography.com/free-satellite-imagery-data-list/)
-- [Web Basemap plugin]
-- [STRM Downloader plugin]
-- [candada land cover](https://natural-resources.canada.ca/maps-tools-publications/satellite-imagery-air-photos/application-development/land-cover/21755)
-- [bc lidar](https://lidar.gov.bc.ca/pages/download-discovery)
+- [World Climate Data](https://www.worldclim.org/)
+- [World Land Cover](https://data.apps.fao.org/catalog/iso/8cf69f76-1be0-4339-a0b0-18a93c7f4760)
+- [World Land Cover (2)](https://viewer.esa-worldcover.org/worldcover/)
+- [Places to download free sattelite imagery](https://gisgeography.com/free-satellite-imagery-data-list/)
+- [Canada Land Cover](https://natural-resources.canada.ca/maps-tools-publications/satellite-imagery-air-photos/application-development/land-cover/21755)
+- [Canada DEM](https://open.canada.ca/data/en/dataset/957782bf-847c-4644-a757-e383c0057995)
+- [BC Lidar](https://lidar.gov.bc.ca/pages/download-discovery)
+
+<br>
 
 #### Resources to Learn more about Geospatial Data
-[What is geospatial data?](https://ubc-library-rc.github.io/gis-intro-qgis/content/geospatial-data.html)
+- [Koerner Library Data Source Guide](https://guides.library.ubc.ca/gis/datasources)
+- [gis.ubc.ca/data/](https://gis.ubc.ca/data/)
+- [What is geospatial data?](https://ubc-library-rc.github.io/gis-intro-qgis/content/geospatial-data.html)
+- [More than you ever wanted to know about GeoJSON - Tom MacWright](https://macwright.org/2015/03/23/geojson-second-bite.html)  
