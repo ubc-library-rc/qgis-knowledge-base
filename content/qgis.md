@@ -32,6 +32,6 @@ QGIS can be downloaded from [qgis.org's Downloads page](https://qgis.org/en/site
 - [QGIS Training Material](https://docs.qgis.org/3.34/en/docs/training_manual/index.html)
 - [Spatial Thoughts Academy QGIS course](https://courses.spatialthoughts.com/introduction-to-qgis.html)
 - Numerous youtube videos and tutorials online, such as this [free comprehensive courses for beginners](https://www.youtube.com/watch?v=xKlk3IXyPMo), or [this one](https://www.youtube.com/watch?v=SovdBaus7pM), or [this one](https://www.youtube.com/watch?v=NHolzMgaqwE&list=PLLxyyob7YmEHFg5xvwszKIo_sNZbczlNC). Central Washington University Department of Geography has a great [Youtube Channel](https://www.youtube.com/@cwugeography3290) with QGIS demonstrations. If the QGIS Versions don't entirely match yours, that's okay! The interface is stilly pretty much the same.
-- Google your questions. It's likely you're not the first one to run into an issue. Use specific jargon as search terms; for instance, if you want to know what the resolution of a raster means, search 'resolution meaning raster'. Browse youtube videos. Scroll through stack exchange conversations. 
+- Search your questions on the internet. It's likely you're not the first one to run into an issue. Use specific jargon as search terms; for instance, if you want to know what the resolution of a raster means, search 'resolution meaning raster'. Browse youtube videos. Scroll through stack exchange conversations. 
 
 
