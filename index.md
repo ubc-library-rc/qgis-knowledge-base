@@ -4,13 +4,13 @@ title: Orientation
 nav_order: 1
 ---
 
-#### this workshop is in development and not yet complete.
+#### this knowledge base is in development and not yet complete.
 {: .warn}
 <br>
 
 # QGIS Knowledge Base
 
-This repository is a growing collection of short demos for common tools and workflows in QGIS. Tools and workflows are grouped together under parent pages 'Finding Data', 'Displaying Data', 'Modifying Vector Data'.... At the bottom of each page you will find a list of resources to learn more. This knowledge base is not a comprehensive course on QGIS but rather a starting place to come with questions. Each page group contains an exercise page that will guide you through some of the documented tools. Download the Knowledge Base Data and QGIS Project here to follow along. 
+The Research Commons QGIS Knowledge Base is a growing collection of short demos for common tools and workflows in QGIS. Tools and workflows are grouped together by topics. At the bottom of each page you will find a list of resources for further independent learning. This repository is not a comprehensive course on QGIS but rather a starting place to come with questions. The demo project and data can be downloaded below. 
 
 [Download Data](empty.zip){: .btn .btn-blue }
 
@@ -28,4 +28,4 @@ This repository is a growing collection of short demos for common tools and work
 - Schedule a 1:1 consult with the geospatial team [here](https://libcal.library.ubc.ca/appointments/research_commons#s-lc-public-pt)
 
 <p style="margin-top:90px"></p>
-<p style="color:grey; font-size:12px">This workshop & knowledge basw was authored by Lily Demet.</p>
+<p style="color:grey; font-size:12px">This workshop & knowledge base was authored by Lily Demet.</p>
