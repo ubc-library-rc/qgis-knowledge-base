@@ -17,7 +17,7 @@ The Research Commons QGIS Knowledge Base is a growing collection of short demos 
       
 
 
-<br><br><br>
+<br>
 
 #### GIS Resources at UBC:
 - General Informational website for all things UBC GIS: [gis.ubc.ca](http://gis.ubc.ca/)
@@ -28,4 +28,4 @@ The Research Commons QGIS Knowledge Base is a growing collection of short demos 
 - Schedule a 1:1 consult with the geospatial team [here](https://libcal.library.ubc.ca/appointments/research_commons#s-lc-public-pt)
 
 <p style="margin-top:90px"></p>
-<p style="color:grey; font-size:12px">This workshop & knowledge base was authored by Lily Demet.</p>
+<p style="color:grey; font-size:12px">This knowledge base was authored by Lily Demet.</p>
