@@ -8,4 +8,4 @@ The Research Commons QGIS Knowledge Base is a growing collection of short demos 
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-<p style="color:grey; font-size:12px">This workshop was authored by Lily Demet.</p>
+<p style="color:grey; font-size:12px">This knowledge base was authored by Lily Demet.</p>
