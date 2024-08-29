@@ -2,7 +2,6 @@
 layout: default
 title: Projections
 nav_order: 5
-has_children: true
 ---
 
 # Coordinate Reference Systems (CRS)

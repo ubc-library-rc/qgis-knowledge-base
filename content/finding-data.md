@@ -4,20 +4,23 @@ title: Finding Data
 nav_order: 3
 has_children: yes
 ---
+# Geospatial Data
+
+A Geographic Information System (GIS) such as QGIS works with data that is tied to a location on Earth. This type of data is often referred to as GIS data, or geospatial data, and is spatially referenced to Earth using location information – most commonly geographic coordinates. A GIS uses this location information to project a geospatial file into a virtual geographic space where it can then be visualized and analyzed.
+
+Geospatial data is often referred to as having two main types: **raster** and **vector**. **Raster data** is data which is made up of pixels arranged in a grid, whereas **vector data** is made up of vertices and the paths between them – creating geometries that represent real-world features or phenomena. In other words, a vector data layer will be made up of either points, lines, or polygons. 
+![vector map](./images/vector-map.png)
+
+![raster map](./images/raster-map.png)
+   
+A third type of spatial data is **tabular data**. Tabular data are data formatted into a table by rows and columns. If the tabular dataset has columns referring to geometry such as latitude and longitude, then the dataset can be displayed in the virtual geographic space of a GIS. 
+
 # Finding Data
-
-## Types of Geospatial Data
-Geospatial data is often referred to as having two main types: raster and vector. These two data types, while both geospatial, are very different from one another. **Raster data** is data which is made up of pixels arranged in a grid, whereas vector data is made up of vertices and the paths between them – creating geometries that represent real-world features or phenomena. In other words, a **vector data** layer will be made up of either points, lines, or polygons. A third type of spatial data is tabular data. **Tabular data** are data formatted into a table by rows and columns. If the tabular dataset has columns referring to geometry such as latitude and longitude, then the dataset can be displayed in the virtual geographic space of a GIS. What type of data do you have? What type of data are you looking for? 
-
-## Where to look
-Municpal and federal data repositories are a good place to begin. If you have access to a data repository, either through a group you're working with/for or institutional library for example, reaching out to whoever coordinates on the matter can be useful. You can also begin with a google search and see what is returned. 
-
-## Making your own data 
-You can always make vector data from within QGIS, and of course modify and crop a dataset to suit your needs. 
+The data you’ll need depends on your mapping objectives. Maybe you already have data. Maybe you want to create a reference map and all you need is contextual information and the ability to add some labels and markers. Perhaps your research lab is collecting and processing the data for you. Whether your area of interest is local or global, whether your final map will be static, interactive, or simply the results of some spatial analysis… these factors will influence where you look for data. Municipal and federal data repositories are a good place to begin looking for geospatial data. If you have access to a data repository, either through a group you’re working with/for or institutional library for example, reaching out to whoever coordinates on the matter can be useful. You can also begin with a web search and see what is returned. Lastly, in some cases you can make your own data. This is particularly true if you only need a reference point or simple boundary outline. 
 
 
 ## Considerations
-Whether you're performing spatial analysis or making maps for yourself or a client, its important to keep a record of your data sources as you work. You'll figure out a system that make sense to you. Trial and error a few times. However, The following considerations are useful to note somewhere like a document or notes file as you go. 
+Whether you’re performing spatial analysis or making maps for yourself or a client, its important to keep a record of your data sources as you work. You’ll figure out a system that make sense to you. Trial and error a few times. However, The following considerations are useful to note somewhere like a document or notes file as you go.
 
 ```
 - What is the dataset of and where did you download it from (save a link)
