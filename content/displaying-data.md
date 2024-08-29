@@ -3,7 +3,6 @@ layout: default
 title: Loading & Displaying Data
 nav_order: 4
 has_children: yes
-# title: Load & Display Data
 ---
 # Displaying Data
 

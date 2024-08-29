@@ -2,7 +2,6 @@
 layout: default
 title: Joins
 nav_order: 7
-has_children: yes
 ---
 # Joins
 

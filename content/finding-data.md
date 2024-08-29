@@ -2,7 +2,6 @@
 layout: default
 title: Finding Data
 nav_order: 3
-has_children: yes
 ---
 # Geospatial Data
 

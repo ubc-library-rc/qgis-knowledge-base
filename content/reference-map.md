@@ -19,7 +19,8 @@ A simple reference map can add useful context to your academic article, poster, 
 
 #### Resources for Making Maps with QGIS
 - [Making your first map video](https://www.youtube.com/watch?v=idQvOMWNMGI)
-- [Map Production with QGIS tutorial](https://ubc-library-rc.github.io/gis-intro-qgis/)
+- [Map Production with QGIS](https://ubc-library-rc.github.io/gis-intro-qgis/)
+- [Tools & Workflows in QGIS](https://ubc-library-rc.github.io/gis-tools-workflows/)
 - [Make a Static Map with QGIS](https://www.youtube.com/watch?v=sD93_VGVXzs)
 - [Creating a Map Layout video tutorial](https://www.youtube.com/watch?v=vfC_Ovr-Uhw&list=PLf4nI7H4_hPYgT4vrK4293tvIx7b88-bF&index=5)
 - [Creating a Shapefile & Preparing a Study Area Map video tutorial](https://www.youtube.com/watch?v=Y2WoZmNs-kI)

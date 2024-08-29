@@ -2,7 +2,7 @@
 layout: default
 title: Editing Vector Data
 nav_order: 6
-has_children: yes
+
 ---
 # Modifying Vector Data
 
